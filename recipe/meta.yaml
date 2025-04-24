@@ -34,7 +34,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: COPYING
-  summary: 'Provides additional extensions to the XCB library'
+  summary: Provides additional extensions to the XCB library
 
 extra:
   recipe-maintainers:
